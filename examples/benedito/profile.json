@@ -1,0 +1,24 @@
+{
+  "name": "benedito_jazz_saxophonist",
+  "art_style": "1990s hand-drawn cel anime illustration in the style of classic jazz-noir TV anime, crisp ink outlines, limited cel shading with two-tone shadows, slightly desaturated retro palette",
+  "body": "tall, lanky elderly man in his late sixties, long limbs, slightly stooped shoulders, long elegant fingers, slim build with a small belly",
+  "heritage": "Brazilian man of Portuguese and Japanese descent",
+  "skin": "light olive skin with a few age spots on the hands",
+  "eyes": "narrow, kind dark-brown eyes with deep laugh lines at the corners",
+  "face": "long angular face with high cheekbones, a hooked nose, hollow cheeks, a neatly trimmed short white goatee and thin white mustache",
+  "hair": "silver-white hair slicked straight back, slightly receding at the temples, reaching the nape of the neck",
+  "outfit": {
+    "garments": [
+      "loosely fitted double-breasted suit jacket in deep burgundy wool, peak lapels, unbuttoned",
+      "cream-colored band-collar shirt, top button open",
+      "matching deep burgundy pleated wide-leg trousers with sharp creases"
+    ],
+    "footwear": "polished two-tone black-and-white wingtip oxford shoes",
+    "accessories": [
+      "small round gold-rimmed sunglasses perched low on his nose",
+      "slim gold wristwatch on his LEFT wrist",
+      "dark-green pocket square in the jacket breast pocket"
+    ],
+    "notes": ""
+  }
+}

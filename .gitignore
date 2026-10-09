@@ -1,0 +1,95 @@
+# ------------------------------------------------------------------
+# Secrets and credentials: never commit these
+# ------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+*.env
+.envrc
+secrets/
+.secrets/
+*.secret
+*.secrets
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.csr
+*.jks
+*.keystore
+id_rsa*
+id_ed25519*
+id_ecdsa*
+*.gpg
+.netrc
+.npmrc
+.pypirc
+.git-credentials
+credentials*.json
+client_secret*.json
+service-account*.json
+*-service-account.json
+token.json
+tokens.json
+*.token
+.aws/
+.gcloud/
+.azure/
+.kube/
+.docker/config.json
+
+# ------------------------------------------------------------------
+# Generated character work (keep your own characters local)
+# Curated showcase images live in docs/images/ and examples/ (tracked).
+# ------------------------------------------------------------------
+output/
+outputs/
+generated/
+renders/
+*_prompt.txt
+*.zip
+
+# ------------------------------------------------------------------
+# Python
+# ------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+.venv/
+venv/
+env/
+ENV/
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# ------------------------------------------------------------------
+# Editors, OS and logs
+# ------------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.bak

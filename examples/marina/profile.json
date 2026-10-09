@@ -1,0 +1,23 @@
+{
+  "name": "marina_botanist_explorer",
+  "art_style": "hand-painted storybook illustration with clean confident ink linework, flat cel-shaded color with subtle gouache texture, warm Studio-Ghibli-inspired character design",
+  "body": "petite, wiry and athletic adult woman in her late twenties, about 1.60 m tall, slim shoulders, strong calves",
+  "heritage": "Afro-Brazilian features",
+  "skin": "deep warm brown skin",
+  "eyes": "large dark-amber eyes",
+  "face": "round face with full cheeks, a small rounded nose, full lips, a light scatter of darker freckles across the nose, a tiny scar through her LEFT eyebrow",
+  "hair": "voluminous natural coily black hair gathered into a large high puff on top of the head, a few loose coils framing the face",
+  "outfit": {
+    "garments": [
+      "short-sleeved button-up field shirt in faded sage green cotton, sleeves rolled once, two chest flap pockets, tucked in",
+      "high-waisted rust-orange canvas cargo shorts reaching mid-thigh, with a worn brown leather belt",
+      "olive canvas crossbody satchel strap running from her RIGHT shoulder to her LEFT hip, bag resting on the LEFT hip"
+    ],
+    "footwear": "scuffed brown leather lace-up hiking boots with thick grey wool socks folded over the boot tops",
+    "accessories": [
+      "round brass magnifying loupe on a cord around her neck",
+      "yellow-and-black woven fabric bracelet on her RIGHT wrist"
+    ],
+    "notes": ""
+  }
+}
